@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+
+}
+
+.topheader{
+    background-color: #F6623E;
+    height: 50px;
+}
+
+.bottomHeader{
+    height: 104px;
+}
+
+.bHlist li:hover{
+    color: #F6623E;
+
+}
+
+.displayBox{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.displayBox h3{
+    font-weight: 600;
+    color: #F6623E;
+  
+}
+
+.displayBox a{
+    
+    background-color: #F6623E;
+    color: white;
+  
+}
+
+.slider{
+    position: absolute;
+    top: 85%;
+}
+
+
+.products img{
+    width:395px ;
+    height: 408px;
+}
+
+#health{
+    background-color: #FFF8F6;
+    height: 678px;
+}
+
+
+
+
+.healthcontent a{
+    border: solid 2px red;
+    color: black;
+    font-weight: 600;
+}
+
+
+#review{
+    background-color: #FEF0E7;
+}
+
+
+.card a{
+    background-color: #F6623E;
+    color: white;
+
+} 
